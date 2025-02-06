@@ -37,7 +37,7 @@ body {
 .logo {
   height: 50px;
   width: 100%;
-  background-image: url("nav_amazon_logo.png");
+  background-image: url("images/nav_amazon_logo.png");
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -161,7 +161,7 @@ body {
 .flag {
   height: 18px;
   width: 22px;
-  background-image: url("us_flag.png");
+  background-image: url("images/us_flag.png");
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -506,7 +506,7 @@ ul a {
 .foot-logo {
   height: 50px;
   width: 250px;
-  background-image: url("amazon_logo1.png");
+  background-image: url("images/amazon_logo1.png");
   background-size: contain;
   background-repeat: no-repeat;
 }
