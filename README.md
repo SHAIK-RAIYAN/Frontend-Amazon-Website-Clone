@@ -11,8 +11,6 @@ Welcome to my **Amazon Website Clone** project! This is a frontend-only replica 
 ✅ Hover effects for an interactive feel ✨  
 ✅ Footer and header styled like Amazon 🔥  
 
-## 📸 Preview
-![Amazon Clone Preview](https://shaik-raiyan.github.io/Frontend-Amazon-Website-Clone/)
 
 ## 📂 Project Structure
 ```
