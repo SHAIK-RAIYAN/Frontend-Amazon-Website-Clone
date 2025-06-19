@@ -12,7 +12,7 @@ Welcome to my **Amazon Website Clone** project! This is a frontend-only replica 
 ✅ Footer and header styled like Amazon 🔥  
 
 ## 📸 Preview
-![Amazon Clone Preview](https://via.placeholder.com/1000x500?text=Project+Preview)
+![Amazon Clone Preview](https://shaik-raiyan.github.io/Frontend-Amazon-Website-Clone/)
 
 ## 📂 Project Structure
 ```
@@ -35,8 +35,6 @@ Frontend-Amazon-Website-Clone/
 - **HTML5** for structuring the content 📄
 - **CSS3** for styling and layout 🎨
 
-
-![Amazon Clone Screenshot]([https://github.com/user-attachments/assets/3af2fe8d-898d-45f7-a475-a31ae310ddc3](https://github.com/SHAIK-RAIYAN/Frontend-Amazon-Website-Clone/blob/main/images/AmazonCloneScreenshot.jpeg))
 
 
 ## 🙌 Contributing
